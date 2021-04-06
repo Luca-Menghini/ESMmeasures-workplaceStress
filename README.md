@@ -1,5 +1,5 @@
 # ESMvalidation-workplaceStress
-Anonymized supplemental materials of the article "Workplace stress in real time: Four parsimonious scales for the experience  sampling measurement of stressors and strain at work"
+Supplemental materials of the article "Workplace stress in real time: Four parsimonious scales for the experience  sampling measurement of stressors and strain at work" by Luca Menghini, Massimiliano Pastore, and Cristian Balducci.
 
 The present repository includes the anonymized supplemental materials of the article "*Workplace stress in real time: Four parsimonious scales for the experience 
 sampling measurement of stressors and strain at work*".

@@ -4,13 +4,13 @@ The present repository includes the supplementary materials of the article "*Wor
 ## Supplementary materials
 - `S1_PowerAnalysis`: Riproducible R code&sup1; and generated HTML report of the a priori power analysis of the multilevel confirmatory factor analysis used to evaluate the factor structure of the three scales. The detailed report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/Appendix%20B%20-%20Data%20pre-processing/insa%40home_dataProcessing.html), whereas a more synthetic PDF report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 
-- `S2_rawData`: Raw CSV data used for running the data analysis script (S5)
+- `S5_scopusSearch`: Results of the Scopus search of ESM studies on job stressors and strain (XLSX)
 
 - `S3_ESMprotocol&scales`: Detailed description of the experience sampling methods (ESM) protocol, including the JSON protocol used with the [Sensus mobile application](https://predictive-technology-laboratory.github.io/sensus/) and the evaluated ESM scales (with Italian items and English translations). The PDF report describing the protocol and the scales is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 
 - `S4_dataAnalysis`: Riproducible R code&sup2; and generated HTML report with full outputs of the data pre-processing and data analysis procedures described in the article, also including a [detailed report (PDF) of multilevel confirmatory factor analysis](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress), a [report (PDF) of supplementary analyses of time trends, measurement reactivity, and sensitivity to contextual factors](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress). The full HTML report of the analyses, showing both R code and full outputs, is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 
-- `S5_scopusSearch`: Results of the Scopus search of ESM studies on job stressors and strain (XLSX)
+- `S5_rawData`: Raw CSV data used for running the data analysis script S4
 
 ### Notes
 1. the first part of the `S1_powerAnalysis_code.Rmd` generates three datasets (`TDS_PARAMETERS.RData`, `TCS_PARAMETERS.RData`, and `MDMQ_PARAMETERS.RData`) necessary to execute the commmands of the second part, which were too large to be shared but can be generated with the first part of the script (otherwise obtained upon request to the first author).

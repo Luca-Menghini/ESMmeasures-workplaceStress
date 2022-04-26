@@ -2,7 +2,7 @@
 The present repository includes the supplementary materials of the article "*Workplace stress in real time: Three parsimonious scales for the experience sampling measurement of stressors and strain at work*" by Luca Menghini, Massimiliano Pastore, and Cristian Balducci, accepted for publication in European Journal of Psychological Assessment (2022). Supplementary materials are also available at [this OSF repository](https://osf.io/87a9p/?view_only=8439d7578f54405a853b31264df9bc19), anonymized for peer-reveiw.
 
 ## Supplementary materials
-- `S1_PowerAnalysis`: Riproducible R code&sup1; and generated HTML report of the a priori power analysis of the multilevel confirmatory factor analysis used to evaluate the factor structure of the three scales. The detailed report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/Appendix%20B%20-%20Data%20pre-processing/insa%40home_dataProcessing.html), whereas a more synthetic PDF report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
+- `S1_PowerAnalysis`: Riproducible R code&sup1; and generated HTML report of the a priori power analysis of the multilevel confirmatory factor analysis used to evaluate the factor structure of the three scales. The detailed report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/S1_PowerAnalysis/S1_powerAnalysis_fullReport.html), whereas a more synthetic PDF report is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 
 - `S5_scopusSearch`: Results of the Scopus search of ESM studies on job stressors and strain (XLSX)
 

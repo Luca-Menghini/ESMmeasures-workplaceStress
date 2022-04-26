@@ -6,7 +6,7 @@ The present repository includes the supplementary materials of the article "*Wor
 
 - `S2_rawData`: Raw CSV data used for running the data analysis script (S5)
 
-- `S3_ESMprotocolANDscales`: Detailed description of the experience sampling methods (ESM) protocol, including the JSON protocol used with the [Sensus mobile application](https://predictive-technology-laboratory.github.io/sensus/) and the evaluated ESM scales (with Italian items and English translations). The PDF report describing the protocol and the scales is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
+- `S3_ESMprotocol&scales`: Detailed description of the experience sampling methods (ESM) protocol, including the JSON protocol used with the [Sensus mobile application](https://predictive-technology-laboratory.github.io/sensus/) and the evaluated ESM scales (with Italian items and English translations). The PDF report describing the protocol and the scales is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 
 - `S4_dataAnalysis`: Riproducible R code* and generated HTML report with full outputs of the data pre-processing and data analysis procedures described in the article, also including a [detailed report (PDF) of multilevel confirmatory factor analysis](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress), a [report (PDF) of supplementary analyses of time trends, measurement reactivity, and sensitivity to contextual factors](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress). The full HTML report of the analyses, showing both R code and full outputs, is [depicted at this page](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress)
 

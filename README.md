@@ -4,7 +4,7 @@ The present repository includes the supplementary materials of the article "*Wor
 ## Supplementary materials
 - `S1_PowerAnalysis`: Reproducible R code&sup1; and generated [full report](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/S1_PowerAnalysis/S1_powerAnalysis_fullReport.html) of the a priori power analysis of the multilevel confirmatory factor analysis used to evaluate the factor structure of the three scales. A more synthetic PDF report is [available at this link](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/S1_PowerAnalysis/S1_powerAnalysis_shortReport.pdf).
 
-- `S5_scopusSearch`: Results of the Scopus search of ESM studies on job stressors and strain.
+- `S2_scopusSearch`: Results of the Scopus search of ESM studies on job stressors and strain.
 
 - `S3_ESMprotocol&scales`: Detailed description of the experience sampling methods (ESM) protocol used in the study, including the JSON protocol used with the [Sensus mobile application](https://predictive-technology-laboratory.github.io/sensus/), and the evaluated ESM scales (with Italian items and English translations). The PDF report describing the protocol and the evaluated ESM scales is [available at this link](https://Luca-Menghini.github.io/ESMmeasures-workplaceStress/S3_ESMprotocol%26scales/S3_ESMprotocol%26scales.pdf).
 
